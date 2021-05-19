@@ -1,0 +1,16 @@
+!!!!- 
+footer - setting - has options *
+
+mic *
+
+nav some icon - *
+
+sign in btn |*| -- aftere firebase
+
+language - options -___√√___
+
+img page - all click__√√__
+
+responsive ___√√___
+
+
